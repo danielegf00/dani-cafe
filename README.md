@@ -1,4 +1,4 @@
-# SALURBAL Cafe [Insert your restaurante name here]
+# Dani Cafe
 
 - [Workshop setup](https://drexel-climate.notion.site/Panama-City-Reproducibility-workshop-Setup-35e57008e885802f9674d2018978c30c?pvs=73)
 
