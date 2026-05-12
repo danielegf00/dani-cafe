@@ -13,4 +13,4 @@ make_cupcake <- function(n_cupcakes = 1) {
   print(paste0("Cupcakes complete! ", cupcakes))
 }
 
-make_cupcake(n_cupcakes = 3)
+make_cupcake(n_cupcakes = 21)
